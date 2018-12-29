@@ -1,0 +1,14 @@
+{
+  "name": "scheduler",
+  "version": "1.0.0",
+  "description": "Schedule calls for spec authors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yury Prokashev",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
